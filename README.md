@@ -6,7 +6,7 @@ indoorlocation system for demonstration
 
 2.AltBeaconsLocationSys.apk 利用BLE4.0技术进行室内定位
 
-  （1）需要室内环境部署蓝牙阶段才能进行定位
+  （1）需要室内环境部署蓝牙节点才能进行定位
   
   （2）该定位作为一种服务运行在文化推送系统中，所以界面并非我们关注的重点
   
